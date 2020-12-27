@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "es2017",
     "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
     "jsx": "react"
   }
 }
